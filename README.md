@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Lamin 🖐️
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLaminM)](https://github.com/LucasLaminM/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLaminM)](https://github.com/LucasLaminM/)
 
 
 ## O que eu uso no meu dia-a-dia 
