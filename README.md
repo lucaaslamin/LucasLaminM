@@ -1,7 +1,5 @@
 ### Olá! Seja bem-vindo 🖐️
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLaminM)](https://github.com/LucasLaminM?tab=repositories)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLaminM&layout=compact)](https://github.com/LucasLaminM?tab=repositories)
 
 
@@ -14,6 +12,13 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
  </div><br/>
+ 
+ 
+ ## Contato 
+ <div>   
+  <a href="https://www.linkedin.com/in/lucas-lamin-mira-a68b97146/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+  
  
 <!--
 **LucasLaminM/LucasLaminM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
