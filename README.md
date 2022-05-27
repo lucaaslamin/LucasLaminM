@@ -2,7 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLaminM&layout=compact)](https://github.com/LucasLaminM?tab=repositories)
 
-
 ## O que eu uso no meu dia-a-dia 
  <div style="display: inline_block">
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
